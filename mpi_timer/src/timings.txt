@@ -1,0 +1,24 @@
+rank 0:
+Sleep 50000 micro s	52711
+Scatter<int> full vector (native)	2157
+SendRecv<int> full vector	763
+SendRecv<int> by element	36231
+Scatter<int> as bytes	563
+Scatter<double> full vector (native)	441
+SendRecv<double> full vector	276
+SendRecv<double> by element	13661
+Scatter<double> as bytes	510
+PUT<double> by element	320953
+PUT<double> full vector	674
+rank 1:
+Sleep 50000 micro s	52729
+Scatter<int> full vector (native)	2065
+SendRecv<int> full vector	815
+SendRecv<int> by element	36255
+Scatter<int> as bytes	509
+Scatter<double> full vector (native)	478
+SendRecv<double> full vector	284
+SendRecv<double> by element	13645
+Scatter<double> as bytes	486
+PUT<double> by element	320948
+PUT<double> full vector	740
