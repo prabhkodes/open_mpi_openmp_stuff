@@ -1,5 +1,10 @@
 # MPI + OpenMP Projects
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![OpenMPI](https://img.shields.io/badge/OpenMPI-364d6e?style=flat-square&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-006DB8?style=flat-square&logoColor=white)
+![OpenBLAS](https://img.shields.io/badge/OpenBLAS-0096D6?style=flat-square&logoColor=white)
+
 Distributed and shared-memory parallel programs using OpenMPI and OpenMP. Covers communication patterns, dynamic scheduling, and hybrid parallelism for HPC workloads.
 
 ## Projects
